@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hobbies- Wren Heinley</title>
+        <link rel = "stylesheet" href = "style.css">
+    </head>
+    <body style = "background-color: rgb(101, 121, 68);">
+        <h1>Hobbies</h1>
+        <p>
+            <h3 class = subtitle >Rowing</h3>
+            <h5 class = "gray-letters">I have been rowing for the texas rowing center for 4 years with 3 years on varsity. Youth Nationals finalist held in Sarasota Florida. Three-time competitor in southern regional regatta. Texas state regatta champion youth men' quad.  </h5> 
+            <center><img src="https://static.wixstatic.com/media/0f90ad_a1bfd518e7e54f97b15a3d02b9f8d0c6~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0f90ad_a1bfd518e7e54f97b15a3d02b9f8d0c6~mv2.jpeg" width = "320px" height = "200px" ></center>
+        </p>
+        <p>
+            <h3 class = subtitle >Woodworking</h3>
+            <h5 class = "gray-letters">I have been woodworking since i was about 6 years old. My dad has alwasy had a wood shop in out garage and would teach me about all the tools. Recently my dad opened a Maker space called secret base and i have been able to expand my abilitys. I still enjoy woork working in my spare time and hope that i will have acsess to some sort of shop for my whole life.  </h5> 
+            <center><img src="https://secretbase.com/assets/uploads/images/beast01.jpg" width = "320px" height = "200px" ></center>
+        </p>
+
+
+    </body>
+</html>
