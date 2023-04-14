@@ -4,9 +4,13 @@
         <title>Programs- Wren Heinley</title>
         <link rel = "stylesheet" href = "style.css">
     </head>
+
     <body style = "background-color: rgb(101, 121, 68);">
         <h1>Programs</h1>
-    <iframe src="https://replit.com/@WrenHeinley/Casino?embed=true" width=90% height=400px>
+        <h3 class = subtitle >Stupid Casino Game</h3>
+        <iframe src="https://replit.com/@WrenHeinley/Casino?embed=true" width=90% height=400px>
+        <h3 class = subtitle >Tic Tac Toe</h3>
+        <iframe src="https://replit.com/@WrenHeinley/gpttictactoe?embed=true" width=90% height=400px></iframe>
 00
     </body>
 </html>
