@@ -7,10 +7,19 @@
 
     <body style = "background-color: rgb(101, 121, 68);">
         <h1>Programs</h1>
-        <h3 class = subtitle >Stupid Casino Game</h3>
-        <iframe src="https://replit.com/@WrenHeinley/Casino?embed=true" width=90% height=400px>
+        <a href="/index">Index</a>
+        <a href="/programs">Programs</a>
+        <a href="/hobbies">Hobbies</a>
+        <a href="/Resume.html">Resume</a>
+        
+        <p>
+        <h3 class = subtitle >Casino Game</h3>
+        <iframe src="https://replit.com/@WrenHeinley/Casino?embed=true" width=99% height=200px>  </iframe>
+        </p>
+
+        <p>
         <h3 class = subtitle >Tic Tac Toe</h3>
-        <iframe src="https://replit.com/@WrenHeinley/gpttictactoe?embed=true" width=90% height=400px></iframe>
-00
+        <iframe src="https://replit.com/@WrenHeinley/gpttictactoe?embed=true" width=99% height=200px></iframe>
+        </p>
     </body>
 </html>
